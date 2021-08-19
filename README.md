@@ -1,7 +1,7 @@
 # git_test
 
-Some description.
+Some description 1.
 
 ## Subheader
 
-Some description.
+Some description 2.
